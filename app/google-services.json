@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38436736750",
+    "firebase_url": "https://demoapp-8f2c5.firebaseio.com",
+    "project_id": "demoapp-8f2c5",
+    "storage_bucket": "demoapp-8f2c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38436736750:android:43ae1b5c062226ed202dff",
+        "android_client_info": {
+          "package_name": "com.stharzun.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38436736750-214drich31udjjfhj2h9f8tuar6r6vkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stharzun.demoapp",
+            "certificate_hash": "aecfd83d628fddcf8e64c57d281ec1b415d110b4"
+          }
+        },
+        {
+          "client_id": "38436736750-s4o8ptce0e6kqoqhfgpvo35gavlc4p5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChx-EWgfOKeq3tbut4mkMbPXE2iIDl4ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38436736750-s4o8ptce0e6kqoqhfgpvo35gavlc4p5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
