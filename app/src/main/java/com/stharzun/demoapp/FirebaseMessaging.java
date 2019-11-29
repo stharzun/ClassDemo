@@ -25,8 +25,8 @@ import java.util.Date;
  * stharzun@gmail.com
  */
 public class FirebaseMessaging extends FirebaseMessagingService {
-    private static final String NOTIFICATION_CHANNEL_ID = "com.impactit.bodhihd.notification";
-    private static final String NOTIFICATION_CHANNEL_NAME = "com.impactit.bodhihd.notification_channel";
+    private static final String NOTIFICATION_CHANNEL_ID = "classDemo.notification";
+    private static final String NOTIFICATION_CHANNEL_NAME = "classDemo.notification_channel";
 
     @Override
     public void onMessageReceived(@NonNull RemoteMessage remoteMessage) {
